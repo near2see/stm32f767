@@ -5,8 +5,7 @@
 *.bin
 *.elf
 
-#MDK环境过滤文件包括debugconf文件Objects下所有文件
-*.dbgconf
+#MDK环境过滤文件夹Objects下所有文件
 *.crf
 *.d
 *o
